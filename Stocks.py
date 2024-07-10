@@ -1,0 +1,26 @@
+#list of Crypto stocks
+#Updated 7/9/24
+
+Stocklist = ["00", "1INCH", "AAVE", "ABT", "ACH", "ACS", "ADA", "AERGO", "AERO", "AGLD",
+             "AIOZ", "AKT", "ALCX", "ALEPH", "ALGO", "ALICE", "AMP", "ANKR", "APE", "API3",
+              "APT", "ARB", "ARKM", "ARPA", "ASM", "AST", "ATOM", "AUCTION", "AUDIO", "AURORA",
+               "AVAX", "AVT", "AXL", "AXS", "BADGER", "BAL", "BAND", "BAT", "BCH", "BICO", "BIGTIME",
+               "BIT", "BLAST", "BLUR", "BLZ", "BNT", "BOBA", "BONK", "BTC", "BTRST", "C98", "CBETH",
+               "CELR", "CGLD", "CHZ", "CLV", "COMP", "CORECHAIN", "COTI", "COVAL", "CRO", "CRV", "CTSI",
+               "CTX", "CVC", "CVX", "DAI", "DAR", "DASH", "DESO", "DEXT", "DIA", "DIMO", "DNT",
+               "DOGE", "DOT", "DRIFT", "DYP", "EGLD", "ELA", "ENS", "EOS", "ERN", "ETC", "ETH", "EURC",
+               "FARM", "FET", "FIDA", "FIL", "FIS", "FLOW", "FLR", "FORT", "FORTH", "FOX", "FX", "GAL",
+               "GFI", "GHST", "GLM", "GMT", "GNO", "GODS", "GRT", "GST", "GTC", "GUSD", "GYEN", "HBAR",
+               "HFT", "HIGH", "HNT", "HONEY", "HOPR", "ICP", "IDEX", "ILV", "IMX", "INDEX", "INJ", "INV",
+               "IOTX", "JASMY", "JTO", "KARRAT", "KAVA", "KNC", "KRL", "KSM", "LCX", "LDO", "LINK",
+               "LIT", "LOKA", "LPT", "LQTY", "LRC", "LSETH", "LTC", "MAGIC", "MANA", "MASK", "MATH", "MATIC",
+               "MDT", "MEDIA", "METIS", "MINA", "MKR", "MLN", "MNDE", "MOBILE", "MPL", "MSOL", "MUSE", 
+               "NCT", "NEAR", "NEON", "NKN", "NMR", "OCEAN", "OGN", "OMNI", "ONDO", "OP", "ORCA", 
+               "ORN", "OSMO", "OXT", "PAX", "PERP", "PIRATE", "PLU", "PNG", "POLS", "POND", "POWR",
+               "PRIME", "PRO", "PRQ", "PUNDIX", "PYR", "PYUSD", "QI", "QNT", "RAD", "RAI", "RARE",
+               "RARI", "RBN", "RENDER", "REQ", "RLC", "RNDR", "RONIN", "ROSE", "RPL", "SAFE", 
+               "SAND", "SEAM", "SEI", "SHDW", "SHIB", "SHPING", "SKL", "SNX", "SOL", "SPA",
+               "SPELL", "STORJ", "STRK", "STX", "SUI", "SUKU", "SUPER", "SUSHI", "SWFTC",
+               "SYN", "T", "TIA", "TIME", "TNSR", "TRAC", "TRB", "TRU", "TVK", "UMA", "UNI", "USDT",
+               "VARA", "VELO", "VET", "VOXEL", "VTHO", "WAMPL", "WAXL", "WBTC", "WCFG", "XCN",
+               "XLM", "XRP", "XTZ", "XYO", "YFI", "ZEC", "ZEN", "ZETA", "ZRO", "ZRX"]
